@@ -387,9 +387,7 @@
     padding-bottom: 22px;
  } 
 
- #list-13{
 
- } 
 
  #list-14{ 
     color: rgba(0, 0, 0, 0.74);
@@ -474,10 +472,6 @@
     grid-row: 1/2; 
 }  
 
-#img-0{
-
-}
-
 #list-18{    
     background-color: black;
     margin-inline: 20px; 
@@ -544,7 +538,7 @@
 
     border-top: rgba(0, 0, 0, 0.386) solid 1px ;
     padding-inline: 86px;
-    padding-block: 14px;
+    padding-block: 10px;
     justify-content: space-between;
     display: flex;
     width: 100%;
@@ -573,4 +567,28 @@
     font-weight: 600;
     margin-bottom: 8px;
 } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

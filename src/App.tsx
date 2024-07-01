@@ -4,6 +4,8 @@ import ContactPage from "./pages/contact";
 import LandingPage from './pages/landing';
 import Navbar from './pages/navbar'; 
 import "./App.css"; 
+import "./index.css"; 
+
 
 function App() {
   return ( 
